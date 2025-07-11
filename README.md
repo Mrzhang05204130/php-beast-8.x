@@ -62,4 +62,36 @@ beast_encode_file(string $input_file, string $output_file, int $expire_timestamp
 
 ---
 
+## 4. 如何修改加密秘钥
+
+为提升安全性，建议在编译前自定义加密秘钥。不同加密算法的秘钥存放在不同的源码文件中：
+
+### 修改 AES 加密秘钥
+
+1. 打开 `aes_algo_handler.c` 文件。
+2. 找到如下代码片段：
+
+```c
+static uint8_t key[] = {
+    0xcf, 0x81, 0x28, 0x3d, 0x22, 0xf2, 0xf4, 0x46,
+    0x23, 0xf8, 0x16, 0x99, 0x0a, 0xdf, 0x25, 0x38,
+};
+```
+3. 按需修改 key 数组的内容（长度为 16 字节）。
+
+### 修改 DES 加密秘钥
+
+1. 打开 `des_algo_handler.c` 文件。
+2. 找到如下代码片段：
+
+```c
+static char key[8] = {
+    0x02, 0x8a, 0x91, 0x33,
+    0x06, 0x03, 0x48, 0x0f,
+};
+```
+3. 按需修改 key 数组的内容（长度为 8 字节）。
+
+> 修改秘钥后，需重新编译扩展并部署。
+
 本项目来源于 https://github.com/liexusong/php-beast
