@@ -1,0 +1,5 @@
+xxtea_algo_handler.lo: \
+  /Users/mrz/Documents/home/php-beast/xxtea_algo_handler.c \
+  /Users/mrz/Documents/home/php-beast/beast_log.h \
+  /Users/mrz/Documents/home/php-beast/beast_module.h \
+  /Users/mrz/Documents/home/php-beast/xxtea.h

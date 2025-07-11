@@ -1,0 +1,4 @@
+base64_algo_handler.lo: \
+  /Users/mrz/Documents/home/php-beast/base64_algo_handler.c \
+  /Users/mrz/Documents/home/php-beast/beast_log.h \
+  /Users/mrz/Documents/home/php-beast/beast_module.h

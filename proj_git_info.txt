@@ -1,0 +1,92 @@
+Array
+(
+    [id] => 5904236
+    [full_name] => qianyuangame_admin/php-beast
+    [human_name] => 大连仟源网络科技/php-beast
+    [url] => https://gitee.com/api/v5/repos/qianyuangame_admin/php-beast
+    [namespace] => Array
+        (
+            [id] => 2145350
+            [type] => enterprise
+            [name] => 大连仟源网络科技
+            [path] => qianyuangame_admin
+            [html_url] => https://gitee.com/qianyuangame_admin
+        )
+
+    [path] => php-beast
+    [name] => php-beast
+    [owner] => Array
+        (
+            [id] => 1409348
+            [login] => qianyuangame_admin_admin
+            [name] => qianyuangame
+            [avatar_url] => https://gitee.com/assets/no_portrait.png
+            [url] => https://gitee.com/api/v5/users/qianyuangame_admin_admin
+            [html_url] => https://gitee.com/qianyuangame_admin_admin
+            [followers_url] => https://gitee.com/api/v5/users/qianyuangame_admin_admin/followers
+            [following_url] => https://gitee.com/api/v5/users/qianyuangame_admin_admin/following_url{/other_user}
+            [gists_url] => https://gitee.com/api/v5/users/qianyuangame_admin_admin/gists{/gist_id}
+            [starred_url] => https://gitee.com/api/v5/users/qianyuangame_admin_admin/starred{/owner}{/repo}
+            [subscriptions_url] => https://gitee.com/api/v5/users/qianyuangame_admin_admin/subscriptions
+            [organizations_url] => https://gitee.com/api/v5/users/qianyuangame_admin_admin/orgs
+            [repos_url] => https://gitee.com/api/v5/users/qianyuangame_admin_admin/repos
+            [events_url] => https://gitee.com/api/v5/users/qianyuangame_admin_admin/events{/privacy}
+            [received_events_url] => https://gitee.com/api/v5/users/qianyuangame_admin_admin/received_events
+            [type] => User
+            [site_admin] => 
+        )
+
+    [description] => 
+    [private] => 1
+    [public] => 
+    [internal] => 
+    [fork] => 
+    [html_url] => https://gitee.com/qianyuangame_admin/php-beast.git
+    [ssh_url] => git@gitee.com:qianyuangame_admin/php-beast.git
+    [forks_url] => https://gitee.com/api/v5/repos/qianyuangame_admin/php-beast/forks
+    [keys_url] => https://gitee.com/api/v5/repos/qianyuangame_admin/php-beast/keys{/key_id}
+    [collaborators_url] => https://gitee.com/api/v5/repos/qianyuangame_admin/php-beast/collaborators{/collaborator}
+    [hooks_url] => https://gitee.com/api/v5/repos/qianyuangame_admin/php-beast/hooks
+    [branches_url] => https://gitee.com/api/v5/repos/qianyuangame_admin/php-beast/branches{/branch}
+    [tags_url] => https://gitee.com/api/v5/repos/qianyuangame_admin/php-beast/tags
+    [blobs_url] => https://gitee.com/api/v5/repos/qianyuangame_admin/php-beast/blobs{/sha}
+    [stargazers_url] => https://gitee.com/api/v5/repos/qianyuangame_admin/php-beast/stargazers
+    [contributors_url] => https://gitee.com/api/v5/repos/qianyuangame_admin/php-beast/contributors
+    [commits_url] => https://gitee.com/api/v5/repos/qianyuangame_admin/php-beast/commits{/sha}
+    [comments_url] => https://gitee.com/api/v5/repos/qianyuangame_admin/php-beast/comments{/number}
+    [issue_comment_url] => https://gitee.com/api/v5/repos/qianyuangame_admin/php-beast/issues/comments{/number}
+    [issues_url] => https://gitee.com/api/v5/repos/qianyuangame_admin/php-beast/issues{/number}
+    [pulls_url] => https://gitee.com/api/v5/repos/qianyuangame_admin/php-beast/pulls{/number}
+    [milestones_url] => https://gitee.com/api/v5/repos/qianyuangame_admin/php-beast/milestones{/number}
+    [notifications_url] => https://gitee.com/api/v5/repos/qianyuangame_admin/php-beast/notifications{?since,all,participating}
+    [labels_url] => https://gitee.com/api/v5/repos/qianyuangame_admin/php-beast/labels{/name}
+    [releases_url] => https://gitee.com/api/v5/repos/qianyuangame_admin/php-beast/releases{/id}
+    [recommend] => 
+    [homepage] => 
+    [language] => C
+    [forks_count] => 0
+    [stargazers_count] => 0
+    [watchers_count] => 2
+    [default_branch] => master
+    [open_issues_count] => 0
+    [has_issues] => 1
+    [has_wiki] => 1
+    [issue_comment] => 
+    [can_comment] => 1
+    [pull_requests_enabled] => 1
+    [has_page] => 
+    [license] => 
+    [outsourced] => 
+    [project_creator] => jack_cheng
+    [members] => Array
+        (
+            [0] => nathan_chor
+            [1] => jack_cheng
+        )
+
+    [pushed_at] => 2019-05-15T18:00:09+08:00
+    [created_at] => 2019-05-14T09:14:28+08:00
+    [updated_at] => 2019-06-30T10:16:40+08:00
+    [parent] => 
+    [paas] => 
+)

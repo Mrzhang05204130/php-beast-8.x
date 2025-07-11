@@ -1,0 +1,2 @@
+shm.lo: /Users/mrz/Documents/home/php-beast/shm.c \
+  /Users/mrz/Documents/home/php-beast/shm.h

@@ -1,0 +1,8 @@
+#! /bin/sh
+#
+# Created by configure
+
+'./configure' \
+'--with-php-config=/usr/local/Cellar/php@8.2/8.2.28_1/bin/php-config' \
+'PKG_CONFIG_PATH=/usr/local/Cellar/openssl@1.1/1.1.1i/lib/pkgconfig:/usr/local/Cellar/openssl@1.1/1.1.1i/lib/pkgconfig:' \
+"$@"
